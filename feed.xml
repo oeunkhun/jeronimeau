@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Jeronim&#x27;eau</title>
+    <link href="https://oeunkhun.github.io/jeronimeau/feed.xml" rel="self" />
+    <link href="https://oeunkhun.github.io/jeronimeau" />
+    <updated>2023-09-01T22:04:24+02:00</updated>
+    <author>
+        <name>Jerome</name>
+    </author>
+    <id>https://oeunkhun.github.io/jeronimeau</id>
+
+    <entry>
+        <title>Entretien Piscine Oyonnax</title>
+        <author>
+            <name>Jerome</name>
+        </author>
+        <link href="https://oeunkhun.github.io/jeronimeau/entretien-piscine-oyonnax.html"/>
+        <id>https://oeunkhun.github.io/jeronimeau/entretien-piscine-oyonnax.html</id>
+        <media:content url="https://oeunkhun.github.io/jeronimeau/media/posts/2/mcr_entretien-piscine-connectee-imagi-magiline-2.jpg" medium="image" />
+
+        <updated>2023-09-01T22:04:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://oeunkhun.github.io/jeronimeau/media/posts/2/mcr_entretien-piscine-connectee-imagi-magiline-2.jpg" alt="" />
+                    Resultats d'un entretien a Oyonnax
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://oeunkhun.github.io/jeronimeau/media/posts/2/mcr_entretien-piscine-connectee-imagi-magiline-2.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Resultats d'un entretien a Oyonnax</p>
+<figure class="post__image"><img loading="lazy"  src="https://oeunkhun.github.io/jeronimeau/media/posts/2/mcr_entretien-piscine-connectee-imagi-magiline.jpg" alt="" width="986" height="555" sizes="(max-width: 48em) 100vw, 768px" srcset="https://oeunkhun.github.io/jeronimeau/media/posts/2/responsive/mcr_entretien-piscine-connectee-imagi-magiline-xs.jpg 300w ,https://oeunkhun.github.io/jeronimeau/media/posts/2/responsive/mcr_entretien-piscine-connectee-imagi-magiline-sm.jpg 480w ,https://oeunkhun.github.io/jeronimeau/media/posts/2/responsive/mcr_entretien-piscine-connectee-imagi-magiline-md.jpg 768w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Entretien piscine Saint Claude</title>
+        <author>
+            <name>Jerome</name>
+        </author>
+        <link href="https://oeunkhun.github.io/jeronimeau/entretien-piscine-saint-claude.html"/>
+        <id>https://oeunkhun.github.io/jeronimeau/entretien-piscine-saint-claude.html</id>
+        <media:content url="https://oeunkhun.github.io/jeronimeau/media/posts/1/piscine-rectangle-emilie-2-nuit-1360x620.jpg-2.webp" medium="image" />
+
+        <updated>2023-09-01T22:04:24+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://oeunkhun.github.io/jeronimeau/media/posts/1/piscine-rectangle-emilie-2-nuit-1360x620.jpg-2.webp" alt="" />
+                    Voici les travaux que j'ai realiser a Saint Claude
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://oeunkhun.github.io/jeronimeau/media/posts/1/piscine-rectangle-emilie-2-nuit-1360x620.jpg-2.webp" class="type:primaryImage" alt="" /></p>
+                <p>Voici les travaux que j'ai realiser a Saint Claude</p>
+<figure class="post__image"><img loading="lazy"  src="https://oeunkhun.github.io/jeronimeau/media/posts/1/piscine-rectangle-emilie-2-nuit-1360x620.jpg.webp" alt="" width="1360" height="620" sizes="(max-width: 48em) 100vw, 768px" srcset="https://oeunkhun.github.io/jeronimeau/media/posts/1/responsive/piscine-rectangle-emilie-2-nuit-1360x620.jpg-xs.webp 300w ,https://oeunkhun.github.io/jeronimeau/media/posts/1/responsive/piscine-rectangle-emilie-2-nuit-1360x620.jpg-sm.webp 480w ,https://oeunkhun.github.io/jeronimeau/media/posts/1/responsive/piscine-rectangle-emilie-2-nuit-1360x620.jpg-md.webp 768w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

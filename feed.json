@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Jeronim&#x27;eau",
+    "description": "",
+    "home_page_url": "https://oeunkhun.github.io/jeronimeau",
+    "feed_url": "https://oeunkhun.github.io/jeronimeau/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jerome"
+    },
+    "items": [
+        {
+            "id": "https://oeunkhun.github.io/jeronimeau/entretien-piscine-oyonnax.html",
+            "url": "https://oeunkhun.github.io/jeronimeau/entretien-piscine-oyonnax.html",
+            "title": "Entretien Piscine Oyonnax",
+            "summary": "Resultats d'un entretien a Oyonnax",
+            "content_html": "<p>Resultats d'un entretien a Oyonnax</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://oeunkhun.github.io/jeronimeau/media/posts/2/mcr_entretien-piscine-connectee-imagi-magiline.jpg\" alt=\"\" width=\"986\" height=\"555\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://oeunkhun.github.io/jeronimeau/media/posts/2/responsive/mcr_entretien-piscine-connectee-imagi-magiline-xs.jpg 300w ,https://oeunkhun.github.io/jeronimeau/media/posts/2/responsive/mcr_entretien-piscine-connectee-imagi-magiline-sm.jpg 480w ,https://oeunkhun.github.io/jeronimeau/media/posts/2/responsive/mcr_entretien-piscine-connectee-imagi-magiline-md.jpg 768w\"></figure>",
+            "image": "https://oeunkhun.github.io/jeronimeau/media/posts/2/mcr_entretien-piscine-connectee-imagi-magiline-2.jpg",
+            "author": {
+                "name": "Jerome"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-01T22:00:01+02:00",
+            "date_modified": "2023-09-01T22:04:16+02:00"
+        },
+        {
+            "id": "https://oeunkhun.github.io/jeronimeau/entretien-piscine-saint-claude.html",
+            "url": "https://oeunkhun.github.io/jeronimeau/entretien-piscine-saint-claude.html",
+            "title": "Entretien piscine Saint Claude",
+            "summary": "Voici les travaux que j'ai realiser a Saint Claude",
+            "content_html": "<p>Voici les travaux que j'ai realiser a Saint Claude</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://oeunkhun.github.io/jeronimeau/media/posts/1/piscine-rectangle-emilie-2-nuit-1360x620.jpg.webp\" alt=\"\" width=\"1360\" height=\"620\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://oeunkhun.github.io/jeronimeau/media/posts/1/responsive/piscine-rectangle-emilie-2-nuit-1360x620.jpg-xs.webp 300w ,https://oeunkhun.github.io/jeronimeau/media/posts/1/responsive/piscine-rectangle-emilie-2-nuit-1360x620.jpg-sm.webp 480w ,https://oeunkhun.github.io/jeronimeau/media/posts/1/responsive/piscine-rectangle-emilie-2-nuit-1360x620.jpg-md.webp 768w\"></figure>",
+            "image": "https://oeunkhun.github.io/jeronimeau/media/posts/1/piscine-rectangle-emilie-2-nuit-1360x620.jpg-2.webp",
+            "author": {
+                "name": "Jerome"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-01T21:48:18+02:00",
+            "date_modified": "2023-09-01T22:04:24+02:00"
+        }
+    ]
+}
