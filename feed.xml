@@ -3,7 +3,7 @@
     <title>Jeronim&#x27;eau!</title>
     <link href="https://oeunkhun.github.io/jeronimeau/feed.xml" rel="self" />
     <link href="https://oeunkhun.github.io/jeronimeau" />
-    <updated>2023-09-01T22:17:15+02:00</updated>
+    <updated>2023-09-01T22:19:23+02:00</updated>
     <author>
         <name>Jerome</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://oeunkhun.github.io/jeronimeau/super-page-de-jerome.html"/>
         <id>https://oeunkhun.github.io/jeronimeau/super-page-de-jerome.html</id>
+        <media:content url="https://oeunkhun.github.io/jeronimeau/media/posts/3/PXL_20220715_125416865-2.jpg" medium="image" />
 
-        <updated>2023-09-01T22:17:15+02:00</updated>
+        <updated>2023-09-01T22:19:23+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://oeunkhun.github.io/jeronimeau/media/posts/3/PXL_20220715_125416865-2.jpg" alt="" />
                     Ma nouvel page! Avec photo:
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://oeunkhun.github.io/jeronimeau/media/posts/3/PXL_20220715_125416865-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Ma nouvel page! </p>
 <p>Avec photo: </p>
 <figure class="post__image"><img loading="lazy"  src="https://oeunkhun.github.io/jeronimeau/media/posts/3/PXL_20220715_125416865.jpg" alt="" width="4032" height="3024" sizes="(max-width: 48em) 100vw, 768px" srcset="https://oeunkhun.github.io/jeronimeau/media/posts/3/responsive/PXL_20220715_125416865-xs.jpg 300w ,https://oeunkhun.github.io/jeronimeau/media/posts/3/responsive/PXL_20220715_125416865-sm.jpg 480w ,https://oeunkhun.github.io/jeronimeau/media/posts/3/responsive/PXL_20220715_125416865-md.jpg 768w"></figure>
