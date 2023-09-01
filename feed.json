@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Jeronim&#x27;eau",
+    "title": "Jeronim&#x27;eau!",
     "description": "",
     "home_page_url": "https://oeunkhun.github.io/jeronimeau",
     "feed_url": "https://oeunkhun.github.io/jeronimeau/feed.json",
@@ -9,6 +9,20 @@
         "name": "Jerome"
     },
     "items": [
+        {
+            "id": "https://oeunkhun.github.io/jeronimeau/super-page-de-jerome.html",
+            "url": "https://oeunkhun.github.io/jeronimeau/super-page-de-jerome.html",
+            "title": "Super page de jerome",
+            "summary": "Ma nouvel page! Avec photo:",
+            "content_html": "<p>Ma nouvel page! </p>\n<p>Avec photo: </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://oeunkhun.github.io/jeronimeau/media/posts/3/PXL_20220715_125416865.jpg\" alt=\"\" width=\"4032\" height=\"3024\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://oeunkhun.github.io/jeronimeau/media/posts/3/responsive/PXL_20220715_125416865-xs.jpg 300w ,https://oeunkhun.github.io/jeronimeau/media/posts/3/responsive/PXL_20220715_125416865-sm.jpg 480w ,https://oeunkhun.github.io/jeronimeau/media/posts/3/responsive/PXL_20220715_125416865-md.jpg 768w\"></figure>",
+            "author": {
+                "name": "Jerome"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-01T22:17:15+02:00",
+            "date_modified": "2023-09-01T22:17:15+02:00"
+        },
         {
             "id": "https://oeunkhun.github.io/jeronimeau/entretien-piscine-oyonnax.html",
             "url": "https://oeunkhun.github.io/jeronimeau/entretien-piscine-oyonnax.html",

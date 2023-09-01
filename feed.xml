@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Jeronim&#x27;eau</title>
+    <title>Jeronim&#x27;eau!</title>
     <link href="https://oeunkhun.github.io/jeronimeau/feed.xml" rel="self" />
     <link href="https://oeunkhun.github.io/jeronimeau" />
-    <updated>2023-09-01T22:04:24+02:00</updated>
+    <updated>2023-09-01T22:17:15+02:00</updated>
     <author>
         <name>Jerome</name>
     </author>
     <id>https://oeunkhun.github.io/jeronimeau</id>
 
+    <entry>
+        <title>Super page de jerome</title>
+        <author>
+            <name>Jerome</name>
+        </author>
+        <link href="https://oeunkhun.github.io/jeronimeau/super-page-de-jerome.html"/>
+        <id>https://oeunkhun.github.io/jeronimeau/super-page-de-jerome.html</id>
+
+        <updated>2023-09-01T22:17:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Ma nouvel page! Avec photo:
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ma nouvel page! </p>
+<p>Avec photo: </p>
+<figure class="post__image"><img loading="lazy"  src="https://oeunkhun.github.io/jeronimeau/media/posts/3/PXL_20220715_125416865.jpg" alt="" width="4032" height="3024" sizes="(max-width: 48em) 100vw, 768px" srcset="https://oeunkhun.github.io/jeronimeau/media/posts/3/responsive/PXL_20220715_125416865-xs.jpg 300w ,https://oeunkhun.github.io/jeronimeau/media/posts/3/responsive/PXL_20220715_125416865-sm.jpg 480w ,https://oeunkhun.github.io/jeronimeau/media/posts/3/responsive/PXL_20220715_125416865-md.jpg 768w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Entretien Piscine Oyonnax</title>
         <author>
